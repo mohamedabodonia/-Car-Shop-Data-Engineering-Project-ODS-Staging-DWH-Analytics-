@@ -51,12 +51,12 @@ E --> F[Power BI Dashboard]
   - Trimmed all string columns
   - Replaced null values
  
-- <img src="https://github.com/mohamedabodonia/-Car-Shop-Data-Engineering-Project-ODS-Staging-DWH-Analytics-/blob/main/SSIS%20Package/Transformation%20in%20Staging.jpeg?raw=true">
+-   <img src="https://github.com/mohamedabodonia/-Car-Shop-Data-Engineering-Project-ODS-Staging-DWH-Analytics-/blob/main/SSIS%20Package/Transformation%20in%20Staging.jpeg?raw=true">
     
 - **Incremental load** from ODS to staging using date/time keys
 - Staging DB acts as a clean, shaped layer before modeling
 
-- - <img src="https://github.com/mohamedabodonia/-Car-Shop-Data-Engineering-Project-ODS-Staging-DWH-Analytics-/blob/main/SSIS%20Package/Staging%20Incremental%20Load.jpeg?raw=true">
+-   <img src="https://github.com/mohamedabodonia/-Car-Shop-Data-Engineering-Project-ODS-Staging-DWH-Analytics-/blob/main/SSIS%20Package/Staging%20Incremental%20Load.jpeg?raw=true">
 
 ### ✅ 3. Data Warehouse Layer
 - Designed a **star schema** with dimension and fact tables

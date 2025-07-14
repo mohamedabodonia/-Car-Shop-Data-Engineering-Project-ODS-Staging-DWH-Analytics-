@@ -184,13 +184,3 @@ This reduces load time and ensures scalability for larger datasets.
 
 ---
 
-## 📁 Suggested Folder Structure
-
-```
-📦 Car-Shop-BI-Project
-├── 📂 SSIS_Packages
-├── 📂 SQL_Scripts
-├── 📂 SSAS_Model
-├── 📂 PowerBI_Reports
-└── README.md
-```

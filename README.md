@@ -127,7 +127,7 @@ Power BI Features:
 - Designed a **star schema** with dimension and fact tables
 - Created **surrogate keys**
 - Merged related entities where applicable (e.g., Orders + Order_Items)
-- Implemented **incremental load** into the DWH from staging
+- Implemented **incremental load** into the DWH from staging  
  **Data Modelling**
     <img src="https://github.com/mohamedabodonia/-Car-Shop-Data-Engineering-Project-ODS-Staging-DWH-Analytics-/blob/main/SSIS%20Package/Conceptual%20Modeling.jpeg?raw=true">
 

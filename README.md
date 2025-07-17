@@ -157,8 +157,12 @@ Connected Power BI directly to the **live SSAS Tabular model**:
   - Sales by Staff/Manager
   - Out-of-Stock Analysis
   - Repeat Customer Performance
+  - 
+  **Dashboard**
 
----
+   <img src="https://github.com/mohamedabodonia/-Car-Shop-Data-Engineering-Project-ODS-Staging-DWH-Analytics-/blob/main/SSIS%20Package/Dashboard.jpeg?raw=true">
+
+
 
 ## 🔁 Incremental Load Strategy
 
